@@ -1,0 +1,19 @@
+{
+  "name": "elevatorjs",
+  "version": "1.0.0",
+  "description": "Forked with package.json form http://tholman.com/elevator.js",
+  "main": "elevator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekshit/elevator.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekshit/elevator.js/issues"
+  },
+  "homepage": "https://github.com/geekshit/elevator.js#readme"
+}
