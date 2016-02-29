@@ -1,6 +1,6 @@
 {
   "name": "elevatorjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked with package.json form http://tholman.com/elevator.js",
   "main": "elevator.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/geekshit/elevator.js.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/geekshit/elevator.js/issues"
   },
